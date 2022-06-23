@@ -29,7 +29,6 @@ class MainActivity : AppCompatActivity() {
                 .titleTextColor(R.color.white)
                 .descriptionTextSize(14)
                 .descriptionTextColor(R.color.black)
-                .icon(resources.getDrawable(R.drawable.ic_baseline_emoji_people_24))
                 .textTypeface(Typeface.SANS_SERIF)
                 .dimColor(R.color.black)
                 .drawShadow(false)
